@@ -27,8 +27,10 @@ card.style.display='inline-block'
 card.style.marginLeft='50px'
 
 div.appendChild(card)
+ document.body.appendChild(div)
 
 
 
 
 }
+
